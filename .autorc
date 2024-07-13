@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Sunset1014",
+  "repo": "container-kvrl6ac",
+  "name": "Sunset1014",
+  "email": "moonset1014@gmail.com",
+}
